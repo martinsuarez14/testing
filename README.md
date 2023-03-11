@@ -74,15 +74,15 @@ _Para conocer otros comandos ir al archivo package.json y observar los scripts d
 
 ## Ejecutando las pruebas ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+<p align="center">
+<img src="https://res.cloudinary.com/dbaqfw9vn/image/upload/v1678549997/Testing/SWAGLABS/terminal_cypress_o2j1ff.jpg">
+</p>
 
-### Analice las pruebas end-to-end 🔩
+### Pruebas end-to-end de registro de usuarios 🔩
 
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+<p align="center">
+<img src="https://res.cloudinary.com/dbaqfw9vn/image/upload/v1678549997/Testing/SWAGLABS/prueba_registro_usuario_vb1jup.jpg">
+</p>
 
 ## Construido con 🛠️
 
